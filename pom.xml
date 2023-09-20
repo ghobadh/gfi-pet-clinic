@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>ca.gforcesoftware</groupId>
 	<artifactId>gfi-pet-clinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>gfi-pet-clinic</name>
 	<description>gfi-pet-clinic</description>
 	<properties>
