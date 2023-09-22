@@ -1,4 +1,4 @@
-package ca.gforcesoftware.gfipetclinic.model;
+package ca.gforcesoftware.model;
 
 import java.time.LocalDate;
 
