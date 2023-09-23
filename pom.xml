@@ -21,11 +21,8 @@
 		<java.version>17</java.version>
 	</properties>
 	<scm>
-
-		<developerConnection>
-			scm:git:https://github.com/ghobadh/gfi-pet-clinic.git
-		</developerConnection>
-	  <tag>gfi-pet-clinic-0.0.7</tag>
+		<developerConnection>scm:git:https://github.com/ghobadh/gfi-pet-clinic.git</developerConnection>
+   	    <tag>gfi-pet-clinic-0.0.7</tag>
   </scm>
 	<dependencies>
 		<dependency>
