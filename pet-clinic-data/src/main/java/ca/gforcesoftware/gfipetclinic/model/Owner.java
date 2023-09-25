@@ -1,4 +1,4 @@
-package ca.gforcesoftware.model;
+package ca.gforcesoftware.gfipetclinic.model;
 
 /**
  * @author gavinhashemi on 2023-09-20
