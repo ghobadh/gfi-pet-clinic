@@ -1,4 +1,4 @@
-package ca.gforcesoftware.gfipetclinic.model;
+package ca.gforcesoftware.gfipetclinic.gfipetclinic.model;
 
 import java.io.Serializable;
 

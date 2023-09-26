@@ -1,6 +1,6 @@
-package ca.gforcesoftware.gfipetclinic.services;
+package ca.gforcesoftware.gfipetclinic.gfipetclinic.services;
 
-import ca.gforcesoftware.gfipetclinic.model.Owner;
+import ca.gforcesoftware.gfipetclinic.gfipetclinic.model.Owner;
 
 /**
  * @author gavinhashemi on 2023-09-25

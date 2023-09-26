@@ -1,7 +1,7 @@
-package ca.gforcesoftware.gfipetclinic.services.map;
+package ca.gforcesoftware.gfipetclinic.gfipetclinic.services.map;
 
-import ca.gforcesoftware.gfipetclinic.model.Owner;
-import ca.gforcesoftware.gfipetclinic.services.CrudService;
+import ca.gforcesoftware.gfipetclinic.gfipetclinic.model.Owner;
+import ca.gforcesoftware.gfipetclinic.gfipetclinic.services.CrudService;
 
 import java.util.Set;
 

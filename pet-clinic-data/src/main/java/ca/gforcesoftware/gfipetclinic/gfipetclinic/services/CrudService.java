@@ -1,4 +1,4 @@
-package ca.gforcesoftware.gfipetclinic.services;
+package ca.gforcesoftware.gfipetclinic.gfipetclinic.services;
 
 import java.util.Set;
 
